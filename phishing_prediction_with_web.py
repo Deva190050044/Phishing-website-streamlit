@@ -36,7 +36,7 @@ def predict(features):
 
 def main():
     #giving title
-    st.title('Phishing Site Predicting App')
+    st.title('Web Application-Based Phishing URL Detection')
     #getting input from user
     image = Image.open('phishing image for streamlit.jpg')
 
